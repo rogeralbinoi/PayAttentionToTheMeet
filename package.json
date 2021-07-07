@@ -1,0 +1,25 @@
+{
+  "name": "payattentiontothemeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeralbinoi/PayAttentionToTheMeet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeralbinoi/PayAttentionToTheMeet/issues"
+  },
+  "homepage": "https://github.com/rogeralbinoi/PayAttentionToTheMeet#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "stylus": "^0.54.8"
+  }
+}
